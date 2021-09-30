@@ -9,7 +9,9 @@ var emojiDictionary = {
   "🐕‍🦺": "Service Dog",
   "🐈": "Cat",
   "🦁": "Lion",
-  "🐅": "Tiger"
+  "🐅": "Tiger",
+  "🦄": "Unicorn",
+  "🦌": "Deer"
 };
 
 var emojiWeKnow = Object.keys(emojiDictionary);
